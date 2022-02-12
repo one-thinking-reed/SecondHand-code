@@ -1,0 +1,18 @@
+    body{
+        padding:0px;
+        margin:0px;
+        border:0px;
+        background-color: rgb(243, 243, 243);
+    }
+    .nav{
+        display: inline-block;
+    }
+
+    .nav_item{
+        display: inline-block;
+        font-size: 30px;
+        color: black;
+        font-family: 'Aclonica';
+        font-weight: 900;
+        padding: 0px 30px 0px 30px;
+    }
